@@ -1,0 +1,19 @@
+Wojciech Cwojdziński 95959, Lilianna Jaśkiewicz 95098
+Zadanie 1
+1.Przetwarzanie równoległe to metoda której możemy używać do obliczeń. Ta metoda obliczeń dzieli zadania na mniejsze części które mogą być wykonywane przez wiele procesorów lub rdzeni. Celem tej techniki jest zwiększenie wydajności poprzez wykonywanie wielu zadań/operacji w tym samym czasie. Wszystkie procesory lub rdzenie wykonuje część zadania co pozwala na szybkie rozwiązanie problemu, zwłaszcza jeśli chodzi o skompikowane obliczenia.
+Przetwarzanie równoległe różni się od sekwencyjnego głównie w sposobie dzielenia i realizowania zadań. W przetwarzaniu sekwencyjnym każda operacja jest wykonywana po sobie, co może być mniej wydajnee w przypadku dużych zadań. Przetwarzanie równoległe umożliwia równoczesne wykonywanie wielu operacji. To prowadzi do znacznej poprawy wydajności, zwłaszcza w systemie z wieloma rdzeniami lub procesorami.
+
+2.Zastosowania przetwarzania równoległego:
+Obliczenia naukowe - wykorzystuje się w symulacjach fizycznych i chemicznych, miedzy innymi w modelowaniu układów molekularnych. wykorzystuje się je też w symylacjach zachowań białek czy genów
+Grafika komputerowa - rendering 3d, realistyczne obrazy, przetwarzanie obrazów, operacje na dużych zbiorach obrazów, analiza medyczna zdjeć tomograficznych
+Analiza dużych zbiorów danych - big data, wykrywanie wzorców, uczenie maszynowe, przetwarzanie danych w czasie rzeczywistym.
+Inżynieria i projektowanie - modelowanie i optymalizacja inżynierskie, symulacje komputerowe,  
+Finanse i analiza ryzyka - analiza portfeli inwestycyjnych, ocena ryzyka, modelowanie kredytowe.
+Telekomunikacja i analiza sieci - przetwarzanie sygnałow w telekomunikacji, analiza sieci komputerowych (wykrywanie np. anomalii)
+Blockchain i krypto - kopanie kryptowalut, weryfikacja transakcji.
+
+3.Korzyści i wyzwania
+Korzyści - zwiększona wydajnosć, skrócenie czasu obliczeń, lepsza skalowalność, równoczesne wykonywanie wielu operacji, optymalizacjia wykorzystania zasobów sprzętowych, poprawa efektów w przetwarzaniu dużych zbiorów danych, możliwość rozwiązywania złożonych problemów obliczeniowych, wykorzystywanie wielu rdzeni procesora, oszczędnosć czasu w aplikacjach wymagających Dużej mocy obliczeniowej.
+Wyzwania - synchronizacja danych, zarzadzanie współbieżnością, konieczność podziału zadań na mniejsze jednostki, złożone zarządzanie komunikacją między procesami, zwiększona potrzeba pamieci, trudności w unikaniu błędów wyścigu i blokad, ograniczona skalowalność w przypadku niskiej liczby jednostek obliczeniowych, optymalizacja algorytmów równoległych.
+
+ 
